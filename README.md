@@ -1,11 +1,13 @@
-# Construtal Flow Optimizer
+# 🌊 Construtal Flow Optimizer
 
 **A comprehensive computational framework for studying flow network evolution based on Constructal Law principles.**
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Tests](https://img.shields.io/badge/Tests-66%2F66%20passing-brightgreen.svg)
-![Status](https://img.shields.io/badge/Status-Phase%205%20Complete-success.svg)
+![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Tests](https://img.shields.io/badge/Tests-66%2F66-brightgreen?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge)
+![Phases](https://img.shields.io/badge/Phases-5%2F5%20Complete-cyan?style=for-the-badge)
+![Coverage](https://img.shields.io/badge/Coverage-%3E90%25-blue?style=for-the-badge)
 
 ## 🎯 Overview
 
